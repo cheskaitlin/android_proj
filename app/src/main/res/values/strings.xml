@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Week2</string>
+    <string name="text">Kaitlin Coffee Store</string>
+    <string name="centerImage">Image</string>
+    <string name="getStarted">Get Started</string>
+    <string name="check_out">Form</string>
+
+    <string name="details">Personal Information</string>
+    <string name="f_name">First Name</string>
+    <string name="l_name">Last Name</string>
+    <string name="email">Enter your email</string>
+    <string name="number">Phone number</string>
+    <string name="address">Address</string>
+
+    <string name="payment">Payment</string>
+    <string name="card_number">Card number</string>
+    <string name="expiring_date">Expiring Date</string>
+    <string name="cvv">CVV</string>
+
+    <string name="submit">Place Your Order</string>
+
+    <string name="product">Product</string>
+    <string name="product_description">Our various coffee</string>
+    <string name="frappuccino">Frappuccino</string>
+    <string name="coffee">Coffee</string>
+    <string name="price">$8.99</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="sign_in">Sign In</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_password">Enter your password</string>
+
+    <string name="hello">Hello %1$s!</string>
+    <string name="todo">TODO</string>
+
+
+</resources>
